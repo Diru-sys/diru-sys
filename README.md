@@ -31,3 +31,16 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 🌱 Ahora mismo estoy con
+
+- 📚 Aprendiendo JavaScript y Python
+- 🔭 Pensando, desarrollando y construyendo mi proyecto de Trabajo Final de Grado
+- 🎯 Buscando mi primera oportunidad como desarrollador web
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-s%C3%A1nchez-damas-47b29a38b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carlossanchezdamas37@gmail.com)
+
+⭐ Si algún proyecto te resulta útil, ¡una estrella siempre se agradece!
