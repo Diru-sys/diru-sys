@@ -8,10 +8,9 @@
 
 ## Sobre mí
 
-- 🎓 Estudiante de IES Hermanos Machado, actualmente en el último tramo con mi Trabajo Final de Grado
+- Estudiante de IES Hermanos Machado, actualmente trabajando con mi TFG
 - Me motiva realizar un código limpio, escalable y entendible para siguientes usuarios
-- Vengo de un entorno con Java, Python y Bash, lo que me da una base sólida en lógica y en trabajo con el sistema
-- 📍 Vivo en Sevilla - Dos Hermanas, y estoy abierto a trabajar tanto de forma remota como presencial
+- 📍 Vivo en Sevilla
 
 ## Tecnologías
 
