@@ -10,7 +10,7 @@
 
 - Estudiante de IES Hermanos Machado, actualmente trabajando con mi TFG
 - Me motiva realizar un código limpio, escalable y entendible para siguientes usuarios
-📍 Vivo en Sevilla
+- 📍 Vivo en Sevilla
 
 ## Tecnologías
 
