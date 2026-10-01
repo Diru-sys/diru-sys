@@ -31,10 +31,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Ahora mismo estoy con
+## Ahora mismo estoy:
 
 - Aprendiendo JavaScript y Python
-- Pensando, desarrollando y construyendo mi proyecto de Trabajo Final de Grado
+- Pensando, desarrollando y construyendo mi proyecto de TFG
 - Buscando mi primera oportunidad como desarrollador web
 
 ## Contacto
