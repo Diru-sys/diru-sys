@@ -37,9 +37,6 @@
 - Pensando, desarrollando y construyendo mi proyecto de TFG
 - Buscando mi primera oportunidad como desarrollador web
 
-## Resumen
-![Github Stats](https://github-readme-stats.vercel.app/api?username=diru-sys&count_private=true&show_icons=true&include_all_commits=true)
-
 ## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-s%C3%A1nchez-damas-47b29a38b)
